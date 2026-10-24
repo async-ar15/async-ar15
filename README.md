@@ -9,8 +9,7 @@
 </p>
 
 
-[Email](mailto:iamanrajput00@gmail.com) | [LinkedIn]() |  [Portfolio]([https://YOUR_PORTFOLIO.com](https://portfolio-async6.vercel.app/)) 
-
+[Email](mailto:iamanrajput00@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-rajput-55a190427/) 
 ---
 
 ## Featured Projects
@@ -98,4 +97,4 @@
 
 Open to roles and collaborations in distributed systems, AI agents, and ML engineering.
 
-[Email](mailto:iamanrajput00@gmail.com) | [LinkedIn]() |  [Portfolio]([https://YOUR_PORTFOLIO.com](https://portfolio-async6.vercel.app/)) 
+[Email](mailto:iamanrajput00@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-rajput-55a190427/) 
