@@ -1,4 +1,4 @@
-<h1 align="center">YOUR NAME</h1>
+<h1 align="center">Aman Rajput</h1>
 
 <p align="center">
   Software Engineer &nbsp;|&nbsp; Distributed Systems &nbsp;|&nbsp; AI Agents &nbsp;|&nbsp; Applied ML
@@ -98,17 +98,9 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
-</p>
-
----
 
 ## Contact
 
 Open to roles and collaborations in distributed systems, AI agents, and ML engineering.
 
-[Email](mailto:YOUR_EMAIL@example.com) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | [X](https://x.com/YOUR_X_HANDLE) | [Portfolio](https://YOUR_PORTFOLIO.com) | [Kaggle](https://www.kaggle.com/YOUR_KAGGLE)
+[Email](mailto:iamanrajput00@gmail.com) | [LinkedIn]() |  [Portfolio]([https://YOUR_PORTFOLIO.com](https://portfolio-async6.vercel.app/)) 
